@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bootstrap Importer/1.0.0": {
+        "dependencies": {
+          "BetterFolderBrowser": "1.2.0"
+        },
+        "runtime": {
+          "Bootstrap Importer.dll": {}
+        }
+      },
+      "BetterFolderBrowser/1.2.0": {
+        "runtime": {
+          "lib/BetterFolderBrowser.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bootstrap Importer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BetterFolderBrowser/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-shmLdoYnbswscye93vt/BhD2D6cgucx0Ya7y2gvqAc9j25EdcJAk7sKTpUKtqoyrBPMYdgF6YtsswomyKMCmgw==",
+      "path": "betterfolderbrowser/1.2.0",
+      "hashPath": "betterfolderbrowser.1.2.0.nupkg.sha512"
+    }
+  }
+}
